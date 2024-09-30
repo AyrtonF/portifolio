@@ -84,7 +84,7 @@ nav ul li a:hover {
     max-width: 800px;
     background-color: rgba(0, 0, 0, 0.7);
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 
 table {
@@ -189,6 +189,7 @@ form input, form textarea {
     margin-bottom: 20px;
     border: none;
     border-radius: 5px;
+
 }
 
 form input[type="text"], form input[type="email"] {
